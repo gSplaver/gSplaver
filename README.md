@@ -1,5 +1,5 @@
 <h2> 👋 Hi, I'm Garrett! </h2>
-<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 <p>Applied Math @ Columbia University</p>
 <p>AI Safety and Goverance Fellow @ Effective Alturism, Columbia University</p>
