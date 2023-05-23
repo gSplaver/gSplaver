@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I'm Garrett! </h2>
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370">
 
-<p>Applied Math @ Columbia University</p>
+<p>Applied Math & Computer Science @ Columbia University</p>
 <p>AI Safety and Goverance Fellow @ Effective Alturism, Columbia University</p>
 <p>CORE Founderschool @ Columbia University</p>
 <p>Class President @ General Studies Student Council, Columbia University</p>
