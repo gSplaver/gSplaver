@@ -3,8 +3,8 @@
 
 <p>Applied Math @ Columbia University</p>
 <p>AI Safety and Goverance Fellow @ Effective Alturism, Columbia University</p>
-<p> CORE Founders School @ Columbia University</p>
-<p>Class President@ General Studies Student Council, Columbia University</p>
+<p>CORE Founders School @ Columbia University</p>
+<p>Class President @ General Studies Student Council, Columbia University</p>
 
 [![Linkedin: garrettsplaver](https://img.shields.io/badge/-garrettsplaver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsplaver/)](https://www.linkedin.com/in/gsplaver/)
 
