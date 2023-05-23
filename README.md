@@ -16,6 +16,6 @@ A little more about me...
 const garrettsplaver = {
   pronouns: "he" | "him" | "his",
   code: [Python, PHP, Java, JavaScript, XML, HTML, CSS],
-  tools: [Git],
+  tools: [Git]
 }
 ```
